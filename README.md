@@ -4,7 +4,7 @@
 I wrote this program a few years back for two reasons:
 
 1. I had a few friends who were convinced they could 'beat' the system, and this gave them the ability to simulate a game without risking real money, and
-1. It involves various advanced and elegant algorithms from Computer Science I was working on at the time, including:
+1. It involves various advanced and elegant algorithms from computer science I was studying on at the time, including:
   1. Alpha-beta minimax adversarial search algorithms
   1. Hash-based nth-order(1) Transposition tables
 
